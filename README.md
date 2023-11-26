@@ -1,2 +1,2 @@
-# Tizi-chess-game
-Tizi-chess-game in html
+# Simple Chess Game
+Simple Chess Game in html
